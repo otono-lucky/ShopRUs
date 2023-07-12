@@ -12,7 +12,7 @@ invoices for customers with the following conditions.
 * A user can get only one percent based discounts on the bill.
 
 #### These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-* Clone the repo to your local machine ($ git clone https://github.com/Chuks-Onuh/ShopsRUs.git).
+* Clone the repo to your local machine ($ git clone https://github.com/otono-lucky/ShopRUs.git).
 * Cd to the root of the cloned file and open the .sln file to run the program. (cd ../path/to/the/file)
 * On successfull opening of the program, naviagte to ShopsRUs.API and open ShopsRUs.db to see seeded data for testing purposes.
 * Run the program using IIS Express server.
